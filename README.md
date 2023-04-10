@@ -1,6 +1,6 @@
-### Hi there 👋
+### Nice to meet you, I am Julio 👋 
 
-I am Julio Bragança. I am a former finance manager with almost 15 years of experience and now I am learning iOS development.
+I am a former finance manager with almost 15 years of experience and now I am learning iOS development.
 
 I am doing the 100 days of Swift challenge from Paul Hudson as well as the backfront academy course of iOS development.
 
