@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Julio Bragança. I am a former finance manager with almost 15 years of experience and now I am learning iOS development.
+
+I am doing the 100 days of Swift challenge from Paul Hudson as well as the backfront academy course of iOS development.
+
+If you want to reach me just go yo my linkedin page that is in my bio!
+
 <!--
 **juliobraganca/juliobraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
