@@ -1,22 +1,15 @@
-### Nice to meet you, I am Julio 👋 
+### Hi there, I'm Júlio 👋
 
-I am a former finance manager with almost 15 years of experience and now I am learning iOS development.
+## About Me
+- 🔭 I'm currently learning iOS development through online courses and self-study
+- 🌱 I'm passionate about building user-friendly iOS applications
+- 👯 I'm looking to collaborate on iOS development project
 
-I am doing the 100 days of Swift challenge from Paul Hudson as well as the backfront academy course of iOS development.
+## Skills
+- Swift
+- Experienced with UIKit and other iOS frameworks
+- Strong analytical and problem-solving skills
 
-If you want to reach me just go yo my linkedin page that is in my bio!
-
-<!--
-**juliobraganca/juliobraganca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education (Currently coursing)
+- Backfront Academy: iOS Journey
+- 100 days of swift from Paul Hudson
