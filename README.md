@@ -10,6 +10,7 @@
 - UIKit and other iOS frameworks
 - Strong analytical and problem-solving skills
 
-### Education (Currently coursing)
-- Backfront Academy: iOS Journey
-- 100 days of swift from Paul Hudson
+### Education
+- Backfront Academy: iOS Journey (in progress)
+- 100 days of swift from Paul Hudson (in progress)
+- graduated in Accounting
