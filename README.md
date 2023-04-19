@@ -13,4 +13,4 @@
 ### Education
 - Backfront Academy: iOS Journey (in progress)
 - 100 days of swift from Paul Hudson (in progress)
-- graduated in Accounting
+- Graduated in Accounting
