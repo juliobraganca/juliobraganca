@@ -11,6 +11,6 @@
 - Strong analytical and problem-solving skills
 
 ### Education
-- Backfront Academy: iOS Journey (in progress)
-- 100 days of swift from Paul Hudson (in progress)
+- Backfront Academy: iOS 5-month Bootcamp (in Progress)
+- 100 days of swift from Paul Hudson
 - Graduated in Accounting
