@@ -12,5 +12,5 @@
 
 ### Education
 - Backfront Academy: iOS 5-month Bootcamp (in Progress)
-- 100 days of swift from Paul Hudson - [Check repository with projects!](https://github.com/juliobraganca/100-days-of-swift)https://github.com/juliobraganca/100-days-of-swift
+- 100 days of swift from Paul Hudson - [Check repository with projects!](https://github.com/juliobraganca/100-days-of-swift)
 - Graduated in Accounting
