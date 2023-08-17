@@ -11,6 +11,6 @@
 - Strong analytical and problem-solving skills
 
 ### Education
-- Backfront Academy: iOS 5-month Bootcamp (in Progress)
+- Backfront Academy: iOS 5-month Bootcamp (Expected conclusion - Dec 2023)
 - 100 days of swift from Paul Hudson - [Check repository with projects!](https://github.com/juliobraganca/100-days-of-swift)
 - Graduated in Accounting
