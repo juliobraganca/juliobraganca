@@ -4,7 +4,7 @@
 - :man_student: I am a former finance manager that is diving into the technology world.
 - I am mainly learning swift but I recently started to learn web development because I want to learn React and React Native later on.
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can 
-- :envelope: <a href="jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
+- :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
 
 ### Skills
 - Swift
