@@ -6,7 +6,7 @@
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can grow further.
 - :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
 
-## Skills
+## Hard Skills
 - Swift
   -  UIKit, ViewCode, Storyboard
   -  REST APIs
