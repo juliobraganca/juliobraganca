@@ -22,7 +22,7 @@
 </p>
 
 ## Technologies
-- [SWIFT](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
+- SWIFT <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 
 ## Education
 - Backfront Academy: iOS 5-month Bootcamp (Expected conclusion in Dec 2023)
