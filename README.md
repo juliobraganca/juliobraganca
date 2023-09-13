@@ -6,15 +6,11 @@
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can grow further.
 - :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
 
-## Skills
+## Hard Skills
 - Swift
   -  UIKit, ViewCode, Storyboard
   -  REST APIs
   -  MVC/MVVM Design Patterns
-- Web Development: Learning with [Angela YU's Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-  - HTML and CSS
-  - Javascript (with a focus on React and Node.js)
-- Strong analytical and problem-solving skills
 
 ## Education
 - Backfront Academy: iOS 5-month Bootcamp (Expected conclusion in Dec 2023)
