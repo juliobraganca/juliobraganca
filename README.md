@@ -22,7 +22,9 @@
 </p>
 
 ## Technologies
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> SWIFT 
+- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> SWIFT
+- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/> SOURCETREE
+- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> GIT
 
 ## Education
 - Backfront Academy: iOS 5-month Bootcamp (Expected conclusion in Dec 2023)
