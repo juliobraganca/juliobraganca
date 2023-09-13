@@ -5,15 +5,6 @@
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can grow further.
 - :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobraganca&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
-    />
-  </a>
-</p>
-
 ## Technologies
 - <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> SWIFT
 - <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/> SOURCETREE
