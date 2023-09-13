@@ -5,7 +5,7 @@
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can grow further.
 - :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
 
-## Technologies
+## Technologies & Tools
 - <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> SWIFT
 - <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/> SOURCETREE
 - <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> GIT
@@ -14,7 +14,7 @@
 ## Education
 - Backfront Academy: iOS 5-month Bootcamp (Expected conclusion in Dec 2023)
 - 100 days of swift from Paul Hudson
-- Bachelor's degree in Accounting
+- Bachelor's degree in Accounting (I know, right!)
 
 ___
 Feel free to explore my repositories; all feedback is welcome!
