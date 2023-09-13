@@ -21,11 +21,8 @@
   </a>
 </p>
 
-## Hard Skills
-- Swift
-  -  UIKit, ViewCode, Storyboard
-  -  REST APIs
-  -  MVC/MVVM Design Patterns
+## Technologies
+- [SWIFT](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
 
 ## Education
 - Backfront Academy: iOS 5-month Bootcamp (Expected conclusion in Dec 2023)
