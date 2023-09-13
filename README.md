@@ -1,6 +1,6 @@
-# Hi there, I'm Júlio 👋
+# Hi there, I'm Júlio 👋 :man_student:
 
-- :man_student: I am a former finance manager that is diving into the technology world.
+- I am a former finance manager that is diving into the technology world.
 - I am mainly learning iOS native development (Swift) at the moment because I want to focus in Mobile Development.
 - I am studying full time at the moment so I am eager to join projects and specially a company where I can grow further.
 - :envelope: <a href="mailto:jcbbraganca@gmail.com" target="_blank">jcbbraganca@gmail.com</a>
